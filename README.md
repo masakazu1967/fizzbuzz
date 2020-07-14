@@ -1,7 +1,8 @@
 # TDD勉強会
 
 価値のある「動作するきれいなコード」を書くためにテスト駆動開発を行う。
-2020/02/15にサイボウズ松山オフィスでAgile459により行われた「TDD Boot Camp in 愛媛 #1」でt_wadaさんがデモした問題。
+2020/02/15にサイボウズ松山オフィスでAgile459により行われた「[TDD Boot Camp in 愛媛 #1](https://agile459.connpass.com/event/161044/)」でt_wadaさんがデモした問題。
+[見てわかるテスト駆動開発 / TDD Live and Workshop 2019 Spring](https://speakerdeck.com/twada/tdd-live-and-workshop-2019-spring)
 
 ## TDDのサイクル
 
@@ -25,3 +26,9 @@
   - テスト → 仮実装 → 実装
   - テスト → 明確な実装
 - テストの構造化とリファクタリング
+
+## 参考文献
+
+- [TDD Boot Camp in 愛媛 に参加しました！](https://one-person.hatenablog.jp/entry/2020/02/27/192617)
+- [TDD Boot Camp in 愛媛 ふりかえり ~やはり俺のTDD Boot Camp参加は間違っていなかった~](https://qiita.com/k2works/items/623fb84001d8c67120a6)
+- [動作するきれいなコード: SeleniumConf Tokyo 2019 基調講演文字起こし+α](https://t-wada.hatenablog.jp/entry/clean-code-that-works)
